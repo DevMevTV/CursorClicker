@@ -1,5 +1,5 @@
 # CursorClicker
-This is the resourcepack for the world "CookieClicker" on the minecraft server legitimoose.com
+This is the resourcepack for the world "CursorClicker" on the minecraft server legitimoose.com
 
 # How to install
 1. Download the resourcepack .zip file
